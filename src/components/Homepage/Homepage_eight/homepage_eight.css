@@ -1,0 +1,11 @@
+.homepage_eight {
+    min-width: 50%;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+    background-size: cover;
+    object-fit: cover;
+    opacity: 2;
+    margin: 10px;
+    background-image: url("..//../../assets//mockup//mockup.jpg");
+}

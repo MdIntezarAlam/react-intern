@@ -1,0 +1,45 @@
+.home_six{
+    min-width: 50%;
+    min-height: 10vh;
+}
+.home_six_contsiner{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: 10px;
+}
+.heading_one{
+    color :rgb(90, 89, 87);
+    font-weight: bolder;
+    font-size: 35px;
+    transform: scaleX(.8, 1);
+
+}
+.heding_two{
+    color: #4e27af;
+    font-size: 45px;
+    transform: scaleX(.5, 1);
+    font-weight: bolder;
+}
+.home_six_container_content p{
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    font-weight: 500;
+}
+.home_six_container_btn{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.home_six_container_btn button{
+    margin: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}

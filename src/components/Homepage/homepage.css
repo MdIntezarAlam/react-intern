@@ -1,0 +1,56 @@
+.homepages {
+    width:100%;
+    height: 100vh;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+    background-size: cover;
+    opacity: 2;
+    background-image: url("../../assets//3D//3D.jpg");
+    display: inline-block;
+}
+
+.homepage_container {
+    margin: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.get_heading, .set_heading {
+    display: inline-block;
+    font-size: 60px;
+    margin: 5px;
+}
+
+.lorem_content {
+    font-size: 18px;
+}
+
+.homepage_container_heading_btn {
+    margin: 10px;
+}
+
+.homepage_container_btn {
+    padding: 15px;
+    border: none;
+    font-weight: bolder;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+/* for all components */
+.homepages_container {
+    width: 95%;
+    display: flex;
+    font-display: column;
+    flex-wrap: nowrap;
+    gap: 20px;
+    margin-top: 30px;
+
+}

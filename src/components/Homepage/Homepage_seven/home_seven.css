@@ -1,0 +1,38 @@
+.home_seven{
+    min-width: 50%;
+    min-height: 10vh;
+    /* margin: 10px; */
+    padding: 10px;
+
+}
+.home_seven_contsiner{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  display: inline-block;
+}
+.heading_one{
+    color :rgb(90, 89, 87);
+    font-weight: bolder;
+    transform: scaleX(.5, 1);
+
+}
+.heding_two{
+    color: #4e27af;
+    font-size: 34px;
+    transform: scaleX(.5, 1);
+    font-weight: bolder;
+}
+.home_seven_container_content p{
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    font-weight: 500;
+}
+.home_seven_container_content_two p{
+    padding: 10px;
+    margin: 10px;
+    font-size: 17px;
+    color: #4e27af;
+    font-weight: 700;
+}

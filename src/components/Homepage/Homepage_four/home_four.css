@@ -1,0 +1,12 @@
+.home_four {
+    min-width: 50%;
+    min-height: 10vh;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+    background-size: cover;
+    opacity: 2;
+    background-image: url("../../../assets//mockup//mockup.jpg");
+    background-color: #3734f5;
+    margin: 20px;
+}
